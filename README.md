@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Merhaba, ben Mücahid! </h1>
+<p align="center">
+  <i>💻 Merhaba, ben Mücahid — web uygulamaları ve Unity ile 2D/3D oyunlar geliştiren, yazılım dünyasında sürekli kendini geliştirmeyi seven bir geliştiriciyim.</i>
+</p>
 
-<!--
-**mucahid81/mucahid81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Şu anda web uygulamaları ve Unity ile oyun geliştirme üzerine çalışıyorum.
+- 💡 Yeni teknolojileri öğrenmeyi ve projelere entegre etmeyi seviyorum.
+- 🎮 Boş zamanlarımda Valorant, LoL ve Sea of Thieves oynuyorum.
+- 🚀 Hedefim, yazılım alanında sürekli gelişmek ve kendi projelerimi hayata geçirmek.
 -->
